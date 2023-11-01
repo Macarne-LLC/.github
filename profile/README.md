@@ -1,6 +1,6 @@
 # Macarne LLC: Global Leaders in Bare Metal Hosting Solutions
 
-![Macarne LLC Logo]([path_to_macarne_logo.png](https://macarne.com/img/macarnelogo.png))  <!-- Replace 'path_to_macarne_logo.png' with the actual path to your logo, if you have one. -->
+![Macarne LLC Logo](https://macarne.com/img/macarnelogo.png)  <!-- Replace 'path_to_macarne_logo.png' with the actual path to your logo, if you have one. -->
 
 Welcome to the official GitHub repository of **Macarne LLC**! As a global leader in bare metal hosting, we pride ourselves on offering high-end server solutions across the world, powered by our very own robust network.
 
