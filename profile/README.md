@@ -1,32 +1,40 @@
-# Macarne LLC: Global Leaders in Bare Metal Hosting Solutions
+Macarne.com – AS64289
 
-![Macarne LLC Logo](https://macarne.com/img/macarnelogo.png)  <!-- Replace 'path_to_macarne_logo.png' with the actual path to your logo, if you have one. -->
+Global Leaders in Bare Metal Hosting, IP Transit & Network Services
 
-Welcome to the official GitHub repository of **Macarne LLC**! As a global leader in bare metal hosting, we pride ourselves on offering high-end server solutions across the world, powered by our very own robust network.
+Welcome to the official GitHub page of Macarne.com, a premier provider of performance-first infrastructure solutions. Backed by our own global IP backbone (AS64289), we deliver high-performance hosting and network services designed for the world’s most demanding applications.
 
-## 🎮 Serving the Gaming Industry & Beyond
+🌍 What We Do
 
-Although the gaming industry remains our primary clientele, our hosting expertise also benefits a diverse range of businesses. No matter the nature of your project or the scale of your requirements, we're here to provide top-tier services that align with your needs.
+At Macarne.com, we specialize in:
+	•	⚙️ Bare Metal Servers – Enterprise-grade performance without the noise of virtualization.
+	•	🌐 IP Transit – High-capacity, low-latency connectivity via our congestion-free global backbone.
+	•	🛡️ DDoS Protection – In-house mitigation built to defend against volumetric and application-layer attacks.
+	•	🖥️ Virtual Servers – Flexible, cost-effective compute instances on premium hardware.
 
-## 🤝 Supporting Open Source
+Whether you’re a game studio, SaaS provider, content network, or infrastructure builder—we have the tools and reach to power your operations globally.
 
-We believe in the transformative power of open source. Not only does it foster innovation and collaboration, but it also accelerates technological advancements. This is why we're active participants in the open source community:
+⸻
 
-- **Donations**: We support open source projects through financial contributions.
-- **Free Resources**: Projects that align with our mission and values may be eligible for complimentary resources.
-  
-If you're leading or are a part of an open source project and need our support, don’t hesitate to reach out!
+🎮 Gaming First. Ready for Anything.
 
-## 📞 Contact Us
+Our infrastructure is engineered with gaming in mind, where every millisecond counts. From ultra-low-latency routes to consistent performance under load, Macarne.com is trusted by some of the most demanding platforms in gaming and real-time services.
 
-For business inquiries or to explore collaboration opportunities:
+⸻
 
-📧 Email: [sales@macarne.com](mailto:sales@macarne.com)
+💡 Supporting Open Source
 
-<!--
+We believe open source drives innovation. That’s why we support the community by:
+	•	💰 Sponsoring open source projects
+	•	🧩 Providing free resources for selected initiatives
 
-🙋‍♀️ Elevate Your Gaming with the Power of Bare Metal
-In a world where every millisecond counts, Macarne LLC stands as the unparalleled champion of hosting solutions tailored for the gaming industry. 
-As a global leader in bare metal hosting, we are committed to delivering unrivaled performance, security, and scalability to power the most demanding online gaming experiences.
-🌈 We sponsor and donate to open source projects email us info@macarne.com
--->
+If your project aligns with our mission, reach out — we’re eager to help.
+
+⸻
+
+📞 Contact Us
+
+For sales, partnerships, and custom solutions:
+	•	✉️ Email: sales@macarne.com
+	•	💬 Telegram: t.me/macarnesales
+	•	🌐 Website: https://macarne.com
